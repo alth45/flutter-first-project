@@ -108,9 +108,8 @@ NetworkImage('https://picsum.photos/seed/john/100')
 
 ## 👤 Author
 
-**Nama Lo**  
-📧 email@example.com  
-🐙 [github.com/username](https://github.com/username)
+**Alth45**   
+🐙 [github.com/alth45](https://github.com/alth45)
 
 ---
 
